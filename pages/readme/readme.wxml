@@ -1,0 +1,18 @@
+<!--pages/readme/readme.wxml-->
+<view class="box">
+<view class="target"><navigator url="/pages/examples/steam-layout/stream-layout">流式布局</navigator></view>
+<view class="target"><navigator url="/pages/examples/fix-footer/fix-footer">固定底部</navigator></view>
+<view class="target"><navigator url="/pages/examples/dice/dice">🎲布局</navigator></view>
+<view class="target"><navigator url="/pages/align-self/align-self">align-self</navigator></view>
+<view class="target"><navigator url="/pages/flex/flex">flex</navigator></view>
+<view class="target"><navigator url="/pages/flex-basis/flex-basis">flex-basis</navigator></view>
+<view class="target"><navigator url="/pages/flex-shrink/flex-shrink">flex-shrink</navigator></view>
+<view class="target"><navigator url="/pages/flex-grow/flex-grow">flex-grow</navigator></view>
+<view class="target"><navigator url="/pages/order/order">order</navigator></view>
+<view class="target"><navigator url="/pages/align-content/align-content">align-content</navigator></view>
+<view class="target"><navigator url="/pages/align-items/align-items">align-items</navigator></view>
+<view class="target"><navigator url="/pages/justify-content/justify-content">justify-content</navigator></view>
+<view class="target"><navigator url="/pages/flex-direction/base">flex-direction</navigator></view>
+<view class="target"><navigator url="/pages/flex-flow/flex-flow">flex-flow</navigator></view>
+<view class="target"><navigator url="/pages/flex-warp/flex-warp">flex-warp</navigator></view>
+</view>

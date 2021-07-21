@@ -1,0 +1,15 @@
+/* pages/readme/readme.wxss */
+.box{
+  display: flex;
+  align-content: flex-start;
+  flex-flow: row wrap;
+}
+
+
+.target{
+  margin-top: 5px;
+  flex: 0 0 100%;
+  border: 1px solid seashell;
+  box-sizing: border-box;
+  text-align: center;
+}

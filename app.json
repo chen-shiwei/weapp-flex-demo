@@ -1,5 +1,10 @@
 {
   "pages": [
+    "pages/readme/readme",
+    "pages/index/index",
+    "pages/examples/steam-layout/stream-layout",
+    "pages/examples/fix-footer/fix-footer",
+    "pages/examples/dice/dice",
     "pages/align-self/align-self",
     "pages/flex/flex",
     "pages/flex-basis/flex-basis",
@@ -12,7 +17,6 @@
     "pages/flex-direction/base",
     "pages/flex-flow/flex-flow",
     "pages/flex-warp/flex-warp",
-    "pages/index/index",
     "pages/logs/logs"
   ],
   "window": {

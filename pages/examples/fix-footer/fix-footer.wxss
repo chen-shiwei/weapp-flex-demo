@@ -1,0 +1,12 @@
+/* pages/examples/fix-footer/fix-footer.wxss */
+.body{
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.main{
+  /* flex:1; */
+  /* flex-grow: 1; */
+  flex: 1;
+}

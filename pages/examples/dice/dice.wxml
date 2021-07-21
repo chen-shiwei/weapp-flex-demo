@@ -1,0 +1,51 @@
+<!--pages/examples/dice/dice.wxml-->
+<text>pages/examples/dice/dice.wxml</text>
+<view class="first dice">
+  <view class="point"></view>
+</view>
+
+<view class="second dice">
+  <view class="point"></view>
+  <view class="point"></view>
+</view>
+
+
+<view class="third dice">
+  <view class="point"></view>
+  <view class="point"></view>
+  <view class="point"></view>
+</view>
+
+
+<view class="fourth dice">
+  <view class="column">
+    <view class="point"></view>
+    <view class="point"></view>
+  </view>
+  <view class="column">
+    <view class="point"></view>
+    <view class="point"></view>
+  </view>
+</view>
+
+<view class="sixth dice">
+  <view class="point"></view>
+  <view class="point"></view>
+  <view class="point"></view>
+  <view class="point"></view>
+  <view class="point"></view>
+  <view class="point"></view>
+</view>
+
+<view class="ninth dice">
+  <view class="point"></view>
+  <view class="point"></view>
+  <view class="point"></view>
+  <view class="point"></view>
+  <view class="point"></view>
+  <view class="point"></view>
+  <view class="point"></view>
+  <view class="point"></view>
+  <view class="point"></view>
+</view>
+

@@ -1,0 +1,73 @@
+/* pages/examples/dice/dice.wxss */
+.point{
+  background-color: #333;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+
+.dice{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  background-color: #e7e7e7;
+  border-radius: 10%;
+  margin: 10px;
+  padding: 10px;
+}
+
+.first{
+  display: flex;
+  justify-content:center ;
+  align-items: center;
+}
+
+.second{
+  display: flex;
+  justify-content: space-between;
+}
+
+.second .point:nth-of-type(2){
+  align-self: flex-end;
+}
+
+.third{
+  display: flex;
+  justify-content: space-between;
+}
+
+.third .point:nth-of-type(2){
+  align-self: center;
+}
+
+.third .point:nth-of-type(3){
+  align-self: flex-end;
+}
+
+.fourth{
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+
+.column{
+  flex-basis: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sixth{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: space-between;
+}
+
+
+.ninth{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-between;
+}

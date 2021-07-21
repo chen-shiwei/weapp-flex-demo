@@ -1,0 +1,6 @@
+<!--pages/examples/fix-footer/fix-footer.wxml-->
+<view class="body">
+<view class="header">header</view>
+<view class="main">main</view>
+<view class="footer">footer</view>
+</view>

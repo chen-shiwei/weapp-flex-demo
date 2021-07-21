@@ -1,0 +1,30 @@
+<!--pages/flex/base.wxml-->
+<text>flex-direction 属性决定主轴的方向（即项目的排列方向</text>
+
+<text>从左到右</text>
+<view class="main-row">
+<view class="card">1</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+</view>
+
+<text>从右到左</text>
+<view class="main-row-reverse">
+<view class="card">1</view>
+<view class="card">2</view>
+<view class="card">3</view>
+</view>
+
+<text>从上到下</text>
+<view class="main-column">
+<view class="card">1</view>
+<view class="card">2</view>
+<view class="card">3</view>
+</view>
+
+<text>从下到上</text>
+<view class="main-column-reverse">
+<view class="card">1</view>
+<view class="card">2</view>
+<view class="card">3</view>
+</view>

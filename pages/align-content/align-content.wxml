@@ -1,0 +1,12 @@
+<!--pages/align-content/align-content.wxml-->
+<text>pages/align-content/align-content.wxml</text>
+
+<text>align-content flex-start</text>
+<view class="align-content-flex-start">
+<view class="card">
+<view style="margin-top:100px">111</view>
+<view style="margin-top:100px">222</view>
+</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+</view>

@@ -1,0 +1,43 @@
+<!--pages/align-items/align-items.wxml-->
+<text>pages/align-items/align-items.wxml</text>
+<text>align-items属性定义项目在交叉轴上如何对齐。</text>
+<text>align-items flex-start 垂直 从上到下</text>
+<view class="align-items-flex-start">
+<view class="card">1</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+</view>
+
+<text>align-items flex-end 垂直从下到上</text>
+<view class="align-items-flex-end">
+<view class="card">1</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+</view>
+
+<text>align-items flex-end 垂直居中</text>
+<view class="align-items-center">
+<view class="card">1</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+</view>
+
+<text>align-items baseling 第一个元素文字为基准</text>
+<view class="align-items-baseline">
+<view class="card">
+<view style="margin-top:100px">111</view>
+<view style="margin-top:100px">222</view>
+</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+</view>
+
+<text>align-items stretch 默认</text>
+<view class="align-items-stretch">
+<view class="card">
+<view style="margin-top:100px">111</view>
+<view style="margin-top:100px">222</view>
+</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+</view>

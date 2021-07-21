@@ -1,0 +1,44 @@
+/* pages/align-items/align-items.wxss */
+.align-items-flex-start{
+  background-color: blanchedalmond;
+  display: flex;
+  align-items: flex-start;
+}
+
+.align-items-flex-end{
+  background-color: blanchedalmond;
+  display: flex;
+  align-items: flex-end;
+}
+
+.align-items-center{
+  background-color: blanchedalmond;
+  display: flex;
+  align-items: center;
+}
+
+.align-items-baseline{
+  background-color: blanchedalmond;
+  display: flex;
+  align-items: baseline;
+}
+
+.align-items-stretch{
+  background-color: blanchedalmond;
+  display: flex;
+  align-items: stretch;
+}
+.card{
+  width: 10px;
+  height: 200px;
+  margin: 10px;
+  background-color: blueviolet;
+}
+
+
+.card-small{
+  width: 10px;
+  height: 100px;
+  margin: 10px;
+  background-color: blueviolet;
+}

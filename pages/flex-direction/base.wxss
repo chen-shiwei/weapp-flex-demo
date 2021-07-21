@@ -1,0 +1,40 @@
+/* pages/flex/base.wxss */
+
+.main-row {
+  display: flex;
+  background-color: black;
+  flex-direction:row ;
+}
+
+.main-row-reverse {
+  display: flex;
+  background-color: black;
+  flex-direction:row-reverse ;
+}
+
+
+.main-column {
+  display: flex;
+  background-color: black;
+  flex-direction:column ;
+}
+
+.main-column-reverse {
+  display: flex;
+  background-color: black;
+  flex-direction:column-reverse ;
+}
+
+.card-small{
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  background-color: blanchedalmond;
+}
+
+.card{
+  width: 100px;
+  height: 200px;
+  margin: 10px;
+  background-color: blanchedalmond;
+}

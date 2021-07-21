@@ -1,0 +1,28 @@
+/* pages/flex-warp/flex-warp.wxss */
+
+.main-no-warp{
+  background-color: blanchedalmond;
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: nowrap;
+}
+
+.main-warp{
+  background-color: blanchedalmond;
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+}
+.main-warp-reverse{
+  background-color: blanchedalmond;
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap-reverse;
+}
+
+.card{
+  width: 100px;
+  height: 200px;
+  margin: 10px;
+  background-color: blueviolet;
+}

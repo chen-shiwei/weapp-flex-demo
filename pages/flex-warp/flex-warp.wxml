@@ -1,0 +1,38 @@
+<!--pages/flex-warp/flex-warp.wxml-->
+<text>pages/flex-warp/flex-warp.wxml</text>
+<text>flex-no-warp 不换行 挤压</text>
+<view class="main-no-warp">
+<view class="card">1</view>
+<view class="card">2</view>
+<view class="card">3</view>
+<view class="card">4</view>
+<view class="card">5</view>
+<view class="card">6</view>
+<view class="card">6</view>
+<view class="card">7</view>
+</view>
+
+<text>flex-no-warp 换行 </text>
+<view class="main-warp">
+<view class="card">1</view>
+<view class="card">2</view>
+<view class="card">3</view>
+<view class="card">4</view>
+<view class="card">5</view>
+<view class="card">6</view>
+<view class="card">6</view>
+<view class="card">7</view>
+</view>
+
+<text>flex-no-warp 反向换行 </text>
+<view class="main-warp-reverse">
+<view class="card">1</view>
+<view class="card">2</view>
+<view class="card">3</view>
+<view class="card">4</view>
+<view class="card">5</view>
+<view class="card">6</view>
+<view class="card">6</view>
+<view class="card">7</view>
+</view>
+

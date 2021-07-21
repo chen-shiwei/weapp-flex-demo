@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/align-content/align-content",
+    "pages/align-items/align-items",
+    "pages/justify-content/justify-content",
+    "pages/flex-direction/base",
+    "pages/flex-flow/flex-flow",
+    "pages/flex-warp/flex-warp",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

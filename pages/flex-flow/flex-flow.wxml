@@ -1,0 +1,37 @@
+<!--pages/flex-flow/flex-flow.wxml-->
+<text>pages/flex-flow/flex-flow.wxml</text>
+<text>flex-flow row warp</text>
+<view class="main-row-warp">
+<view class="card">1</view>
+<view class="card">2</view>
+<view class="card">3</view>
+<view class="card">4</view>
+<view class="card">5</view>
+<view class="card">6</view>
+<view class="card">6</view>
+<view class="card">7</view>
+</view>
+
+<text>flex-flow row-reverse warp</text>
+<view class="main-row-reverse-warp">
+<view class="card">1</view>
+<view class="card">2</view>
+<view class="card">3</view>
+<view class="card">4</view>
+<view class="card">5</view>
+<view class="card">6</view>
+<view class="card">6</view>
+<view class="card">7</view>
+</view>
+
+<text>flex-flow row-reverse warp-reverse</text>
+<view class="main-row-reverse-warp-reverse">
+<view class="card">1</view>
+<view class="card">2</view>
+<view class="card">3</view>
+<view class="card">4</view>
+<view class="card">5</view>
+<view class="card">6</view>
+<view class="card">6</view>
+<view class="card">7</view>
+</view>

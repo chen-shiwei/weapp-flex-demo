@@ -1,0 +1,46 @@
+<!--pages/justify-content/justify-content.wxml-->
+<text>pages/justify-content/justify-content.wxml</text>
+<text>justify-content flex-start</text>
+<view class="justify-content-start">
+<view class="card">1</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+<view class="card">4</view>
+<view class="card">5</view>
+<view class="card-small">6</view>
+<view class="card">6</view>
+<view class="card">7</view>
+</view>
+
+<text>justify-content flex-end</text>
+<view class="justify-content-end">
+<view class="card">1</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+<view class="card">4</view>
+<view class="card">5</view>
+<view class="card-small">6</view>
+<view class="card">6</view>
+<view class="card">7</view>
+</view>
+
+<text>justify-content center</text>
+<view class="justify-content-center">
+<view class="card">1</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+</view>
+
+<text>justify-content space-between 两端对齐</text>
+<view class="justify-content-space-between">
+<view class="card">1</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+</view>
+
+<text>justify-content space-around 均等对齐</text>
+<view class="justify-content-space-around">
+<view class="card">1</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+</view>

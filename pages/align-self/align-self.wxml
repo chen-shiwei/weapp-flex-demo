@@ -1,0 +1,62 @@
+<!--pages/align-self/align-self.wxml-->
+<text>pages/align-self/align-self.wxml</text>
+
+<text>align-self start</text>
+<view class="box">
+<view class="card start">1</view>
+<view class="card start">2</view>
+<view class="card start">3</view>
+<view class="card start">4</view>
+<view class="card end" style="height:50px">5</view>
+<view class="card start">6</view>
+<view class="card start">6</view>
+<view class="card start">7</view>
+</view>
+
+<text>align-self end</text>
+<view class="box">
+<view class="card end">1</view>
+<view class="card end">2</view>
+<view class="card end">3</view>
+<view class="card start" style="height:50px">4</view>
+<view class="card end">5</view>
+<view class="card end">6</view>
+<view class="card end">6</view>
+<view class="card end">7</view>
+</view>
+
+<text>align-self center</text>
+<view class="box">
+<view class="card end">1</view>
+<view class="card end">2</view>
+<view class="card end">3</view>
+<view class="card center" style="height:50px">4</view>
+<view class="card end">5</view>
+<view class="card end">6</view>
+<view class="card end">6</view>
+<view class="card end">7</view>
+</view>
+
+<text>align-self baseline</text>
+<view class="box">
+<view class="card end">1</view>
+<view class="card end">2</view>
+<view class="card end">3</view>
+<view class="card baseline" style="height:50px">4</view>
+<view class="card end">5</view>
+<view class="card end">6</view>
+<view class="card end">6</view>
+<view class="card end">7</view>
+</view>
+
+<text>align-self stretch</text>
+<view class="box">
+<view class="card end">1</view>
+<view class="card end">2</view>
+<view class="card end">3</view>
+<view class="card stretch" style="height:50px">4</view>
+<view class="card end">5</view>
+<view class="card end">6</view>
+<view class="card end">6</view>
+<view class="card end">7</view>
+</view>

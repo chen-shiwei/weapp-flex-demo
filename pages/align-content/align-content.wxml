@@ -1,8 +1,35 @@
 <!--pages/align-content/align-content.wxml-->
-<text>pages/align-content/align-content.wxml</text>
+<text>align-content 多根轴线的对齐方式</text>
 
 <text>align-content flex-start</text>
 <view class="align-content-flex-start">
+<view class="card">
+<view style="margin-top:100px">111</view>
+<view style="margin-top:100px">222</view>
+</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+<view class="card">3</view>
+<view class="card">3</view>
+<view class="card">3</view>
+<view class="card">3</view>
+<view class="card">3</view>
+<view class="card">3</view>
+<view class="card">3</view>
+</view>
+
+<text>align-content flex-end</text>
+<view class="align-content-flex-end">
+<view class="card">
+<view style="margin-top:100px">111</view>
+<view style="margin-top:100px">222</view>
+</view>
+<view class="card-small">2</view>
+<view class="card">3</view>
+</view>
+
+<text>align-content center</text>
+<view class="align-content-center">
 <view class="card">
 <view style="margin-top:100px">111</view>
 <view style="margin-top:100px">222</view>

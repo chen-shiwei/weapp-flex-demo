@@ -1,0 +1,27 @@
+/* pages/order/order.wxss */
+.box{
+  background-color: blueviolet;
+  display: flex;
+}
+
+.card{
+  background-color:brown;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.card-1{
+  order: 9;
+}
+
+.card-2{
+  order: 6;
+}
+
+.card-1{
+  order: 4;
+}
+
+
+

@@ -1,0 +1,11 @@
+<!--pages/flex-shrink/flex-shrink.wxml-->
+<text>pages/flex-shrink/flex-shrink.wxml</text>
+
+<view class="box">
+<view class="card shrink-1">缩小1</view>
+<view class="card shrink-1">缩小1</view>
+<view class="card shrink-2">缩小2</view>
+<view class="card shrink-3">缩小3</view>
+<view class="card shrink-2">缩小2</view>
+<view class="card shrink-1">缩小1</view>
+</view>

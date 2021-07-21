@@ -1,0 +1,12 @@
+<!--pages/flex-grow/flex-grow.wxml-->
+<text>pages/flex-grow/flex-grow.wxml</text>
+
+
+<view class="box">
+<view class="card grow-1">1</view>
+<view class="card grow-1">1</view>
+<view class="card grow-2">2</view>
+<view class="card grow-3">3</view>
+<view class="card grow-2">2</view>
+<view class="card grow-1">1</view>
+</view>

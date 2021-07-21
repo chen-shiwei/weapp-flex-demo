@@ -3,17 +3,28 @@
   background-color: blanchedalmond;
   display: flex;
   align-content: flex-start;
+  height: 1000px;
+  width: 100%;
 }
 
 .align-content-flex-end{
   background-color: blanchedalmond;
   display: flex;
   align-content: flex-end;
+  height: 1000px;
+  width: 100%;
 }
 
+.align-content-center{
+  background-color: blanchedalmond;
+  display: flex;
+  align-content: center;
+  height: 1000px;
+  width: 100%;
+}
 
 .card{
-  width: 10px;
+  width: 100px;
   height: 200px;
   margin: 10px;
   background-color: blueviolet;

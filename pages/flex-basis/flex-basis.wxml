@@ -1,0 +1,13 @@
+<!--pages/flex-basis/flex-basis.wxml-->
+<text>pages/flex-basis/flex-basis.wxml</text>
+<text>flex-basic ???</text>
+<view class="box">
+<view class="card basis">1</view>
+<view class="card basis">2</view>
+<view class="card basis">3</view>
+<view class="card basis">4</view>
+<view class="card basis">5</view>
+<view class="card basis">6</view>
+<view class="card basis">6</view>
+<view class="card basis">7</view>
+</view>

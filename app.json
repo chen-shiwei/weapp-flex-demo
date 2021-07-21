@@ -1,5 +1,11 @@
 {
   "pages": [
+    "pages/align-self/align-self",
+    "pages/flex/flex",
+    "pages/flex-basis/flex-basis",
+    "pages/flex-shrink/flex-shrink",
+    "pages/flex-grow/flex-grow",
+    "pages/order/order",
     "pages/align-content/align-content",
     "pages/align-items/align-items",
     "pages/justify-content/justify-content",

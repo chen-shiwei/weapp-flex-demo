@@ -1,0 +1,14 @@
+<!--pages/flex/flex.wxml-->
+<text>pages/flex/flex.wxml</text>
+
+<text>flex shark(1 2 3 4) grow(5667) basic(7)</text>
+<view class="box">
+<view class="card shrink">1</view>
+<view class="card shrink">2</view>
+<view class="card shrink">3</view>
+<view class="card shrink">4</view>
+<view class="card grow">5</view>
+<view class="card grow">6</view>
+<view class="card grow">6</view>
+<view class="card basis">7</view>
+</view>
